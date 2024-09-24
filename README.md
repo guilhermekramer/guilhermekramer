@@ -6,12 +6,16 @@
 I'm a full time dedicated Software Developer, passionate about technology and about the unknow 🔭. I Believe in a world which humans and nature coexists, and that is my mission out of the internet.
 Actually im working as a Full Stack Software Developer in a Social Project called Programa Do Leite Potiguar, sponsered by the Brazilian's Government. 
 
+ <p>
+  <a href="https://www.linkedin.com/in/luiz-guilhermekramer/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
  
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -26,6 +30,7 @@ Actually im working as a Full Stack Software Developer in a Social Project calle
 
 #
 
+<!--
 ### 📊 Stats
 
 ![Guilherme Kramer GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermekramer&show_icons=true&theme=gruvbox)
