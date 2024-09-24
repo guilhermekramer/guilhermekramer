@@ -6,10 +6,16 @@
 I'm a full time dedicated Software Developer, passionate about technology and about the unknow 🔭. I Believe in a world which humans and nature coexists, and that is my mission out of the internet.
 Actually im working as a Full Stack Software Developer in a Social Project called Programa Do Leite Potiguar, sponsered by the Brazilian's Government. 
 
- <p>
+<p>
   <a href="https://www.linkedin.com/in/luiz-guilhermekramer/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
+<div align="center">
+  <a href="https://github.com/guilhermekramer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermekramer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermekramer&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
 ### 🧰 Languages and Tools
 
