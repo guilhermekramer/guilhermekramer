@@ -3,7 +3,7 @@
 
 **`Passionate Developer`**
 
-I'm a full time dedicated Software Developer, passionate about technology and about the unknow 🔭. I Believe in a world which humans and nature coexists, and that is my mission out pf the internet.
+I'm a full time dedicated Software Developer, passionate about technology and about the unknow 🔭. I Believe in a world which humans and nature coexists, and that is my mission out of the internet.
 
  
 ### 🧰 Languages and Tools
