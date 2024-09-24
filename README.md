@@ -1,6 +1,12 @@
 
-#  Hello! Welcome to my Github profile.
-## My name is Luiz Guilherme Kramer,
+## 🌱 Hello, My name is Luiz Guilherme Kramer
+
+
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" width="40" height="40"/>
 
 
 <!--
