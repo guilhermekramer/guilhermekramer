@@ -1,7 +1,12 @@
 
-#  Hello
-## My name is Luiz Guilherme Kramer, welcome to my Github Profile !
-## Im a Passionate Software Developer, Linux enthusiast an
+#  Hello! Welcome to my Github profile.
+## My name is Luiz Guilherme Kramer,
+
+
+<!--
+**guilhermekramer/guilhermekramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/guilhermekramer">
@@ -9,10 +14,6 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </div>
-<!--
-**guilhermekramer/guilhermekramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
