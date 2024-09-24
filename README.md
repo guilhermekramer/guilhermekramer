@@ -4,7 +4,8 @@
 **`Software Developer`**
 
 I'm a full time dedicated Software Developer, passionate about technology and about the unknow 🔭. I Believe in a world which humans and nature coexists, and that is my mission out of the internet.
-Actually im working as a Full Stack Software Developer in a Social Project called Programa Do Leite Potiguar, sponsered by the Brazilian's Government. 
+
+Actually im working as a Full Stack Software Developer in a Social Project sponsered by the Brazilian's Government. 
 
 <p>
   <a href="https://www.linkedin.com/in/luiz-guilhermekramer/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg"/></a>
