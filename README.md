@@ -3,7 +3,9 @@
 
 **`Software Developer`**
 
-I'm a full time dedicated Software Developer, passionate about technology and about the unknow 🔭. I Believe in a world which humans and nature coexists, and that is my mission out of the internet.
+I'm a full time dedicated Software Developer, passionate about technology and about the unknow 🔭.
+
+I Believe in a world which humans and nature coexists, and that is my mission out of the internet.
 
 Actually im working as a Full Stack Software Developer in a Social Project sponsered by the Brazilian's Government. 
 
@@ -12,12 +14,6 @@ Actually im working as a Full Stack Software Developer in a Social Project spons
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<div align="center">
-  <a href="https://github.com/guilhermekramer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermekramer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermekramer&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
